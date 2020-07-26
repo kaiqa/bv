@@ -1,0 +1,60 @@
+I, [2020-07-26T20:11:57.874467 #61253]  INFO -- : ** BROWSER **
+I, [2020-07-26T20:11:57.874749 #61253]  INFO -- : :chrome
+I, [2020-07-26T20:11:57.874790 #61253]  INFO -- : ** URL **
+I, [2020-07-26T20:11:57.874807 #61253]  INFO -- : https://jotformeu.com/201882323530347
+I, [2020-07-26T20:12:28.740252 #61253]  INFO -- : timed out after 30 seconds, waiting for #<Watir::TextField: located: false; {:id=>"last_", :tag_name=>"input"}> to be located
+I, [2020-07-26T20:12:28.740535 #61253]  INFO -- : ["/usr/local/lib/ruby/gems/2.7.0/gems/watir-6.16.5/lib/watir/elements/element.rb:798:in `rescue in element_call'", "/usr/local/lib/ruby/gems/2.7.0/gems/watir-6.16.5/lib/watir/elements/element.rb:790:in `element_call'", "/usr/local/lib/ruby/gems/2.7.0/gems/watir-6.16.5/lib/watir/user_editable.rb:10:in `set'", "/Users/kai/Development/BetVictor/test/helper.rb:14:in `i_fill_in_name'", "specForm.rb:24:in `form_test'", "specForm.rb:47:in `<main>'"]
+I, [2020-07-26T22:08:26.206552 #61563]  INFO -- : ** BROWSER **
+I, [2020-07-26T22:08:26.208116 #61563]  INFO -- : :chrome
+I, [2020-07-26T22:08:26.208256 #61563]  INFO -- : ** URL **
+I, [2020-07-26T22:08:26.208278 #61563]  INFO -- : https://jotformeu.com/201882323530347
+I, [2020-07-26T22:10:40.749650 #61665]  INFO -- : ** BROWSER **
+I, [2020-07-26T22:10:40.751651 #61665]  INFO -- : :chrome
+I, [2020-07-26T22:10:40.751956 #61665]  INFO -- : ** URL **
+I, [2020-07-26T22:10:40.752145 #61665]  INFO -- : https://jotformeu.com/201882323530347
+I, [2020-07-26T22:12:59.540234 #61771]  INFO -- : ** BROWSER **
+I, [2020-07-26T22:12:59.540844 #61771]  INFO -- : :chrome
+I, [2020-07-26T22:12:59.540938 #61771]  INFO -- : ** URL **
+I, [2020-07-26T22:12:59.540971 #61771]  INFO -- : https://jotformeu.com/201882323530347
+I, [2020-07-26T22:14:16.934152 #61864]  INFO -- : ** BROWSER **
+I, [2020-07-26T22:14:16.935045 #61864]  INFO -- : :chrome
+I, [2020-07-26T22:14:16.935120 #61864]  INFO -- : ** URL **
+I, [2020-07-26T22:14:16.935143 #61864]  INFO -- : https://jotformeu.com/201882323530347
+I, [2020-07-26T22:15:27.891165 #61928]  INFO -- : ** BROWSER **
+I, [2020-07-26T22:15:27.892339 #61928]  INFO -- : :chrome
+I, [2020-07-26T22:15:27.892401 #61928]  INFO -- : ** URL **
+I, [2020-07-26T22:15:27.892429 #61928]  INFO -- : https://jotformeu.com/201882323530347
+I, [2020-07-26T22:15:59.508357 #61928]  INFO -- : timed out after 30 seconds, waiting for #<Watir::TextField: located: false; {:id=>"last_", :tag_name=>"input"}> to be located
+I, [2020-07-26T22:15:59.508743 #61928]  INFO -- : ["/usr/local/lib/ruby/gems/2.7.0/gems/watir-6.16.5/lib/watir/elements/element.rb:798:in `rescue in element_call'", "/usr/local/lib/ruby/gems/2.7.0/gems/watir-6.16.5/lib/watir/elements/element.rb:790:in `element_call'", "/usr/local/lib/ruby/gems/2.7.0/gems/watir-6.16.5/lib/watir/user_editable.rb:10:in `set'", "/Users/kai/Development/BetVictor/bv/helper.rb:14:in `i_fill_in_name'", "specForm.rb:24:in `form_test'", "specForm.rb:47:in `<main>'"]
+I, [2020-07-26T22:18:24.137337 #62019]  INFO -- : ** BROWSER **
+I, [2020-07-26T22:18:24.138079 #62019]  INFO -- : :chrome
+I, [2020-07-26T22:18:24.138174 #62019]  INFO -- : ** URL **
+I, [2020-07-26T22:18:24.138525 #62019]  INFO -- : https://jotformeu.com/201882323530347
+I, [2020-07-26T22:24:08.837173 #62122]  INFO -- : ** BROWSER **
+I, [2020-07-26T22:24:08.842903 #62122]  INFO -- : :chrome
+I, [2020-07-26T22:24:08.843020 #62122]  INFO -- : ** URL **
+I, [2020-07-26T22:24:08.843049 #62122]  INFO -- : https://jotformeu.com/201882323530347
+I, [2020-07-26T22:26:01.631989 #62166]  INFO -- : ** BROWSER **
+I, [2020-07-26T22:26:01.632613 #62166]  INFO -- : :chrome
+I, [2020-07-26T22:26:01.632850 #62166]  INFO -- : ** URL **
+I, [2020-07-26T22:26:01.632891 #62166]  INFO -- : https://jotformeu.com/201882323530347
+I, [2020-07-26T22:26:39.096726 #62195]  INFO -- : ** BROWSER **
+I, [2020-07-26T22:26:39.096880 #62195]  INFO -- : :chrome
+I, [2020-07-26T22:26:39.096909 #62195]  INFO -- : ** URL **
+I, [2020-07-26T22:26:39.096927 #62195]  INFO -- : https://jotformeu.com/201882323530347
+I, [2020-07-26T22:27:48.127472 #62226]  INFO -- : ** BROWSER **
+I, [2020-07-26T22:27:48.127695 #62226]  INFO -- : :chrome
+I, [2020-07-26T22:27:48.127741 #62226]  INFO -- : ** URL **
+I, [2020-07-26T22:27:48.127764 #62226]  INFO -- : https://jotformeu.com/201882323530347
+I, [2020-07-26T22:28:33.612959 #62253]  INFO -- : ** BROWSER **
+I, [2020-07-26T22:28:33.614034 #62253]  INFO -- : :chrome
+I, [2020-07-26T22:28:33.614091 #62253]  INFO -- : ** URL **
+I, [2020-07-26T22:28:33.614118 #62253]  INFO -- : https://jotformeu.com/201882323530347
+I, [2020-07-26T22:29:58.465217 #62336]  INFO -- : ** BROWSER **
+I, [2020-07-26T22:29:58.466424 #62336]  INFO -- : :chrome
+I, [2020-07-26T22:29:58.466627 #62336]  INFO -- : ** URL **
+I, [2020-07-26T22:29:58.466726 #62336]  INFO -- : https://jotformeu.com/201882323530347
+I, [2020-07-26T22:34:15.959181 #62438]  INFO -- : ** BROWSER **
+I, [2020-07-26T22:34:15.960628 #62438]  INFO -- : :chrome
+I, [2020-07-26T22:34:15.960728 #62438]  INFO -- : ** URL **
+I, [2020-07-26T22:34:15.960768 #62438]  INFO -- : https://jotformeu.com/201882323530347
