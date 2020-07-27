@@ -35,8 +35,8 @@ Footer timeline navigation
 
 
 Further observation:
-Some times no centre alignments of the page elements
+- Some times no centre alignments of the page elements
 Not reproducible:
-Footer Timeline navigation disapears 
+- Footer Timeline navigation disapears 
 
 
