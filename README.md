@@ -42,8 +42,7 @@ Footer timeline navigation
 
 Further observation:
 - Some times no centre alignments of the page elements
-(Not reproducible)
-- Footer Timeline navigation disapears 
+- Footer Timeline navigation disapears (Not reproducible)
 
 See also: 
 - video success.mp4
