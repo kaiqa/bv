@@ -42,7 +42,7 @@ Footer timeline navigation
 
 Further observation:
 - Some times no centre alignments of the page elements
-Not reproducible:
+(Not reproducible)
 - Footer Timeline navigation disapears 
 
 
